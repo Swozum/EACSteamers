@@ -34,9 +34,19 @@ const cards = [
     },
 ];
 const videos = [
-    video1 = {
-        name:'',
-        path:'',
-        shortText:''
-    }
+    {
+        name:'steamm',
+        path:'vid/steamers1.mp4',
+        shortText:'treino1'
+    },
+    {
+        name:'steamm2',
+        path:'vid/steamers2.mp4',
+        shortText:'treino2'
+    },
+    {
+        name:'steamm3',
+        path:'vid/steamers4.mp4',
+        shortText:'treino3'
+    },
 ];
